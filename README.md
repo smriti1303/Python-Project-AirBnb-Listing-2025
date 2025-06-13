@@ -93,9 +93,17 @@ __5. Host Behavior:__
 **1. Clone the repository:**  
 ```bash
 git clone https://github.com/smriti1303/Python-Project-AirBnb-Listing-2025.git
-## 2. Install the required libraries
+```
+
+**2. Install the required libraries:**
 
 Run this command in your terminal to install all necessary Python packages:
 
 ```bash
 pip install pandas numpy matplotlib seaborn
+```
+
+**3. Run the Jupyter Notebook Or Python Script:**
+```bash
+jupyter notebook airbnb_eda_2025.ipynb
+```
