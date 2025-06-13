@@ -66,7 +66,7 @@ __6. Review behavior:__
 + __Histograms and Boxplots__: To detect outliers in price.
 + __Bar Charts:__ Displaying room types and neighborhood group distributions.
 
-## Key Findings and Insights
+## 📈 Key Findings and Insights
 __1. Price Trends:__
 
 + Manhattan has the most expensive listings, followed by Brooklyn.
