@@ -90,7 +90,7 @@ __5. Host Behavior:__
 
 ## 🚀 How to Run This Project
 
-**1. Clone the repository:**  
+**1. Clone the repository by copying the link in terminal:**  
 ```bash
 git clone https://github.com/smriti1303/Python-Project-AirBnb-Listing-2025.git
 ```
