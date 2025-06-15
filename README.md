@@ -1,12 +1,12 @@
 # Python-Project-AirBnb-Listing-2025
-## Project Overview
+## 📊 Project Overview
 This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like Pandas, Numpy, Matplotlib, Seabornfor cleaning, visualization, and analysis.
 
 <p align="center">
   <img src="airbnb.png"  width="500"/>
 </p>
 
-## Objective
+## 🔍 Objective
 The goal of this project is to:
 1. Analyze room types, prices, and availability across different neighborhoods.  
 2. Understand host behavior and listing patterns.  
@@ -108,7 +108,7 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook airbnb_2025.ipynb
 ```
 
-## Recommendations
+## 📌 Recommendations
 + __For Guests:__
 
   + Look for listings with high availability and good reviews for a better experience.
@@ -119,10 +119,10 @@ jupyter notebook airbnb_2025.ipynb
   + Improve availability and review response rates to attract more bookings.
   + Manage pricing effectively to compete within the borough's market.
  
-## Future Work
+## 📈Future Work
 1. Use machine learning to predict prices based on room type and location.
 2. Perform sentiment analysis on reviews to better understand guest experiences.
 3. Create an interactive dashboard using Plotly or Tableau for live monitoring.
 
-## Conclusion
+## ✅Conclusion
 This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using EDA techniques, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
